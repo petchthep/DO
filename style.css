@@ -5,8 +5,6 @@ a:hover {
 
 .right {
 	float: right;
-	background-color: blue; 
-	width: 85%;
 	padding: 0;
 
 }
@@ -32,5 +30,56 @@ a:hover {
 
 .introduction {
 	height: 120px;
-	background-color: yellow;
+}
+
+.editorialMission h3 {
+	font-size: 80px;
+	margin-left: 20px;
+	font-family: 'Raleway', sans-serif;
+	color: red;
+}
+
+.editorialMission p {
+	margin-left: 300px;
+	color: pink;
+	line-height: 20px;
+}
+
+
+
+.audience h3 {
+	font-size: 80px;
+	margin-left: 20px;
+	font-family: 'Raleway', sans-serif;
+	color: red;
+}
+
+.audience img {
+	margin-left: 200px;
+}
+
+.audience h4 {
+	color: red;
+	margin-left: 80px;
+}
+
+.audience ul li {
+	font-size: 15px;
+	line-height: 25px;
+	margin-left: 80px;
+}
+
+.reach h4 {
+	font-size: 80px;
+	margin-left: 20px;
+	font-family: 'Raleway', sans-serif;
+	color: red;
+}
+
+.reach img {
+	margin-left: 80px;
+}
+
+.reach li {
+	margin-left: 80px;
 }
