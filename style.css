@@ -45,16 +45,41 @@ text-decoration: italic;
 clear: both;
 }
 
-.clear: {
+.DemandGeneration {
 clear: both;
 }
+
 
 .introduction {
 height: 120px;
 font-size: 22px;
 }
 
-.editorialMission h3 {
+.editorialLeadership h3 {
+font-size: 120px;
+margin-left: 20px;
+font-family: 'Raleway', sans-serif;
+color: red;
+font-weight: 100;
+}
+
+.DemandGeneration h3 {
+font-size: 120px;
+margin-left: 20px;
+font-family: 'Raleway', sans-serif;
+color: red;
+font-weight: 100;
+}
+
+.branding h3 {
+font-size: 120px;
+margin-left: 20px;
+font-family: 'Raleway', sans-serif;
+color: red;
+font-weight: 100;
+}
+
+.EditorialCalendar h3 {
 font-size: 120px;
 margin-left: 20px;
 font-family: 'Raleway', sans-serif;
